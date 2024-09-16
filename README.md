@@ -1,1 +1,1 @@
-[Some title here]('Github Resume'.pdf)
+[Resume](Github_Resume.pdf)
